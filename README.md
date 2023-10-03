@@ -29,11 +29,11 @@
 
 ### Alerts
 
-1. In your JS file, write `alert(“Hello, World!”);`
-2. Refresh the page in the browser - what happens?
-3. What are some real-life alerts you have seen?
-4. Write another alert that copies one you might see on a website.
-5. What happens to the first alert? (You can comment them out if they get annoying.)
+1.In your JS file, write alert(“Hello, World!”);
+Refresh the page in the browser - what happens?
+What are some real-life alerts you have seen?
+Write another alert that copies one you might see on a website.
+What happens to the first alert? (You can comment them out if they get annoying.)
 
 ### Prompts (And Declaring Your First Variable!)
 
